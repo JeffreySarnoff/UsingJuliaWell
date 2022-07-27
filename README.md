@@ -1,2 +1,2 @@
 # Using Julia Well
-Jeffrey A. Sarnoff Uses Julia Well
+Jeffrey A. Sarnoff uses Julia well
